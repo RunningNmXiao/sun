@@ -1,3 +1,7 @@
 just for test
 
+<<<<<<< HEAD
 b: this is my hourse~
+=======
+a: this is my hourse!
+>>>>>>> 3eea855b86de7631bd5796ac798adc413cc1df94
